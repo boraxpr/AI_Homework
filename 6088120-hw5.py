@@ -5,6 +5,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix
 
+
 def load_data():
     # The following example is a dataset about
     # quiz, hw, reading hours and grade.
